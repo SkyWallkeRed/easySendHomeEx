@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../src/public/core/app/second-component/second-component.js"],"names":["appendComponent"],"mappings":";;AAAA,CAAC,YAAY;AACZA,iBAAgB,2BAAhB;AACA,CAFD","file":"second-component.js","sourcesContent":["(function () {\n\tappendComponent('core/app/second-component');\n})();\n"]}

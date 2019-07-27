@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../src/public/core/app/first-component/first-component.js"],"names":["appendComponent"],"mappings":";;AAAA,CAAC,YAAY;AACZA,iBAAgB,iCAAhB;AACA,CAFD","file":"first-component.js","sourcesContent":["(function () {\n\tappendComponent('static/core/app/first-component');\n})();\n"]}
